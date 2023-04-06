@@ -5,12 +5,12 @@ For this project, I analyzed Amazon reviews for video games. Some of the reviews
 
 ## Results
 The dataset contained 6 columns:
-*"review_id" - Unique ID for each review
-*"star_rating" - Product rating on a scale of 1-5
-*"helpful_votes" - Number of Amazon users that voted a review as being helpful
-*"total_votes" - total number of review votes
-*"vine" - Tells if the review was a part of the Amazon Vine program or not
-*"verified_purchase" - Tells if the review was made buy someone who has proven they purchased the product
+* "review_id" - Unique ID for each review
+* "star_rating" - Product rating on a scale of 1-5
+* "helpful_votes" - Number of Amazon users that voted a review as being helpful
+* "total_votes" - total number of review votes
+* "vine" - Tells if the review was a part of the Amazon Vine program or not
+* "verified_purchase" - Tells if the review was made buy someone who has proven they purchased the product
 
 Here are some of the findings from the original dataset:
 
