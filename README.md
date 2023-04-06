@@ -27,3 +27,4 @@ This data is not all that useful, so I created a new dataset that only contains 
 * Vine program reviews have a higher star rating
 
 ## Summary
+Based on the average star ratings from the vine and non-vine datasets, vine reviewers might have a bias since they give much higher ratings. However, there are only 90 reviews in the vine dataset vs 37831 reviews in the non-vine dataset. We might see different results if the two datasets were closer to equal in size.
